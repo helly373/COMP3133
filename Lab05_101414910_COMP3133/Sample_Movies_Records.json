@@ -1,0 +1,27 @@
+[
+    {
+      "id": "4",
+      "name": "Interstellar",
+      "director_name": "Christopher Nolan",
+      "production_house": "Paramount Pictures",
+      "release_date": "2014-11-07",
+      "rating": 8.6
+    },
+    {
+      "id": "5",
+      "name": "Avatar",
+      "director_name": "James Cameron",
+      "production_house": "20th Century Fox",
+      "release_date": "2009-12-18",
+      "rating": 7.8
+    },
+    {
+      "id": "6",
+      "name": "The Lord of the Rings: The Return of the King",
+      "director_name": "Peter Jackson",
+      "production_house": "New Line Cinema",
+      "release_date": "2003-12-17",
+      "rating": 9.0
+    }
+  ]
+  
